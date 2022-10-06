@@ -28,10 +28,3 @@ class Post(models.Model):
         blank=True,
         null=True
     )
-
-
-
-
-from django.db import models
-
-# Create your models here.
