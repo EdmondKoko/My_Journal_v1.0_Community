@@ -1,7 +1,5 @@
 ![Python](https://img.shields.io/badge/Python-3.10-blue?style=for-the-badge&logo=python&logoColor=yellow)
-
 ![Django](https://img.shields.io/badge/Django-3.2.18-red?style=for-the-badge&logo=django&logoColor=blue)
-
 ![SQLite](https://img.shields.io/badge/SQLite-blueviolet?style=for-the-badge&logo=postgresql&logoColor=yellow)
 
 # Проект спринта: сообщества
