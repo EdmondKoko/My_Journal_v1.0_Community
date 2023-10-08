@@ -1,3 +1,5 @@
+![Python](https://img.shields.io/badge/Python-3.10-blue?style=for-the-badge&logo=python&logoColor=yellow)
+![SQLite](https://img.shields.io/badge/SQLite-blueviolet?style=for-the-badge&logo=postgresql&logoColor=yellow)
 # Проект спринта: сообщества
 В проекте реализовано:
 - Создано и зарегистрировано приложение Posts.
