@@ -3,8 +3,8 @@
 ![SQLite](https://img.shields.io/badge/SQLite-blueviolet?style=for-the-badge&logo=postgresql&logoColor=yellow)
 ![Pytest-django](https://img.shields.io/badge/pytest-django==3.8.0-orange?style=for-the-badge&logo=nginx&logoColor=green)
 
+# Yatube - социальная сеть для публикации личных дневников. 
 
-# Проект спринта: сообщества
 В проекте реализовано:
 - Создано и зарегистрировано приложение Posts.
 - Подключена база данных.
