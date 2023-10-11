@@ -1,6 +1,6 @@
 ![Python](https://img.shields.io/badge/Python-3.10-blue?style=for-the-badge&logo=python&logoColor=yellow)
 ![Django](https://img.shields.io/badge/Django-2.2.9-red?style=for-the-badge&logo=django&logoColor=blue)
-![SQLite](https://img.shields.io/badge/SQLite-blueviolet?style=for-the-badge&logo=postgresql&logoColor=yellow)
+![SQLite](https://img.shields.io/badge/SQLite-black?style=for-the-badge&logo=postgresql&logoColor=yellow)
 ![Pytest-django](https://img.shields.io/badge/pytest-django==3.8.0-orange?style=for-the-badge&logo=nginx&logoColor=green)
 
 # Yatube - социальная сеть для публикации личных дневников. 
