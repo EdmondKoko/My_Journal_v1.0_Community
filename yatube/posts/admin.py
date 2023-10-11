@@ -4,7 +4,7 @@ from .models import Post, Group
 
 
 class PostAdmin(admin.ModelAdmin):
-    """Регистрация модели Post в админке"""
+    """Регистрация модели Post в админке."""
     list_display = (
         'pk',
         'text',
