@@ -4,7 +4,7 @@ from .models import Post, Group
 
 
 def index(request):
-    """Главная страница. Вывод последних 10 постов отсортированных по дате"""
+    """Главная страница. Вывод последних 10 постов отсортированных по дате."""
     template = 'posts/index.html'
     posts = Post.objects.order_by('-pub_date')[:10]
     context = {
@@ -14,7 +14,7 @@ def index(request):
 
 
 def group_posts(request, slug):
-    """Страница список постов"""
+    """Страница список постов."""
     template = 'posts/group_list.html'
     group = get_object_or_404(Group, slug=slug)
     posts = group.posts.all()
