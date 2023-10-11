@@ -17,13 +17,13 @@
 Клонируем проект:
 
 ```bash
-git clone https://github.com/edmondkoko/hw02_community.git
+git clone https://github.com/edmondkoko/yatube_v1.0_community.git
 ```
 
 Переходим в папку с проектом:
 
 ```bash
-cd hw02_community
+cd yatube_v1.0_community
 ```
 
 Устанавливаем виртуальное окружение:
