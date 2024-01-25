@@ -23,7 +23,7 @@ git clone https://github.com/edmondkoko/My_Journal_v1.0_Community.git
 Переходим в папку с проектом:
 
 ```bash
-cd yatube_v1.0_community
+cd My_Journal_v1.0_Community
 ```
 
 Устанавливаем виртуальное окружение:
